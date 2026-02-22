@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-Author- soniya thakur
+Author soniya thakur(1)
